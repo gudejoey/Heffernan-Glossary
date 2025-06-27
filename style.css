@@ -1,7 +1,15 @@
-body {
-    font-family: Arial, sans-serif;
+*,
+::after,
+::before{
+    box-sizing:border-box;
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    
     line-height: 1.6;
 }
 
@@ -20,7 +28,8 @@ main {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
-    box-sizing: border-box;
+    border-width:1px;
+    border-radius:8px;
 }
 
 ul {
