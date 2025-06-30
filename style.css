@@ -54,7 +54,8 @@ main {
 
 #side-nav a {
     display: block;
-    padding: 4px 0;
+    padding: 1px 0;
+    font-size:10px;
     text-align: center;
     text-decoration: none;
     color: #3e9442;
