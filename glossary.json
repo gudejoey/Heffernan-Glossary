@@ -1,0 +1,1447 @@
+[
+  {
+    "term": "COI",
+    "phrase": "Certificate of Insurance",
+    "definition": "A document that provides evidence that an insurance policy is in place, outlining key policy information such as coverage, limits, and policyholder details."
+  },
+  {
+    "term": "E&O",
+    "phrase": "Errors and Omissions",
+    "definition": "A type of professional liability insurance that protects insurance brokers and other professionals from claims of inadequate work or negligent actions."
+  },
+  {
+    "term": "GL",
+    "phrase": "General Liability",
+    "definition": "A standard insurance policy issued to businesses to protect against liability claims for bodily injury, property damage, and personal and advertising injury."
+  },
+  {
+    "term": "WC",
+    "phrase": "Workers' Compensation",
+    "definition": "Insurance that provides wage replacement and medical benefits to employees injured in the course of employment."
+  },
+  {
+    "term": "PL",
+    "phrase": "Professional Liability ",
+    "definition": "Also known as malpractice insurance or E&O, this insurance protects professionals against claims of negligence or harm resulting from professional advice or services."
+  },
+  {
+    "term": "D&O",
+    "phrase": "Directors and Officers Liability",
+    "definition": "A liability insurance policy designed to protect corporate directors and officers from claims alleging they acted improperly while managing a company."
+  },
+  {
+    "term": "P&C",
+    "phrase": "Property and Casualty ",
+    "definition": "A term referring to two types of insurance: property insurance, which covers physical items, and casualty insurance, which covers liability."
+  },
+  {
+    "term": "BI",
+    "phrase": "Business Interruption",
+    "definition": "A type of insurance that covers loss of income that a business suffers after a disaster or disruption"
+  },
+  {
+    "term": "BOP",
+    "phrase": "Business Owner's Policy",
+    "definition": "A policy that combines business property and liability insurance into one package for small to medium-sized businesses."
+  },
+  {
+    "term": "UIM/UM",
+    "phrase": "Underinsured/Uninsured Motorist ",
+    "definition": "Coverage that protects the insured in an accident caused by a driver who is uninsured or doesn’t have sufficient insurance to cover damages."
+  },
+  {
+    "term": "ISO",
+    "phrase": "Insurance Services Office",
+    "definition": "An organization that provides statistical, actuarial, underwriting, and claims information and analytics to the insurance industry."
+  },
+  {
+    "term": "NCCI",
+    "phrase": "National Council on Compensation Insurance ",
+    "definition": "A U.S. organization that manages workers' compensation insurance data, including claims statistics and policy trends."
+  },
+  {
+    "term": "CGL",
+    "phrase": "Commercial General Liability ",
+    "definition": "A policy that provides coverage for a business in the event of bodily injury, personal injury, or property damage caused by business operations."
+  },
+  {
+    "term": "ACORD",
+    "phrase": "Association for Cooperative Operations Research and Development",
+    "definition": "A nonprofit organization that develops standards for data exchange in the insurance industry, such as standardized forms used by agents and carriers."
+  },
+  {
+    "term": "CPCU",
+    "phrase": "Chartered Property Casualty Underwriter",
+    "definition": "A nonprofit organization that develops standards for data exchange in the insurance industry, such as standardized forms used by agents and carriers."
+  },
+  {
+    "term": "NAIC",
+    "phrase": "National Association of Insurance Commissioners",
+    "definition": "The U.S. standard-setting and regulatory support organization created and governed by the chief insurance regulators from the 50 states, Washington, D.C., and five U.S. territories."
+  },
+  {
+    "term": "FEMA",
+    "phrase": "Federal Emergency Management Agency",
+    "definition": "A U.S. government agency that coordinates responses to natural disasters and provides flood insurance through the National Flood Insurance Program (NFIP)."
+  },
+  {
+    "term": "NFIP",
+    "phrase": "National Flood Insurance Program ",
+    "definition": "A program managed by FEMA that provides flood insurance to property owners, renters, and businesses in participating communities."
+  },
+  {
+    "term": "RFP",
+    "phrase": "Request for Proposal ",
+    "definition": "A document a company issues when seeking bids for insurance products or services."
+  },
+  {
+    "term": "TPA",
+    "phrase": "Third Party Administrator",
+    "definition": "A company hired by an insurance company or a business to process claims and perform administrative functions."
+  },
+  {
+    "term": "CSR",
+    "phrase": "Customer Service Representative ",
+    "definition": "A professional who handles administrative tasks, client communication, and other support duties for insurance brokers or agencies."
+  },
+  {
+    "term": "PIF",
+    "phrase": "Policies in Force",
+    "definition": "A metric indicating the total number of active insurance policies a broker or agency manages."
+  },
+  {
+    "term": "BOR",
+    "phrase": "Broker of Record",
+    "definition": "A document that allows an insured party to appoint a specific broker as their representative for obtaining and maintaining insurance policies."
+  },
+  {
+    "term": "ROI",
+    "phrase": "Return on Investment",
+    "definition": "A financial metric used to measure the profitability or financial return of an insurance product or service compared to its cost."
+  },
+  {
+    "term": "ERM",
+    "phrase": "Enterprise Risk Management ",
+    "definition": "A process used by businesses to identify, assess, and prepare for any dangers, hazards, or other potential risks that could affect their operations."
+  },
+  {
+    "term": "CRM",
+    "phrase": "Customer Relationship Management",
+    "definition": "A system or strategy for managing interactions with current and future clients, often through technology and software."
+  },
+  {
+    "term": "UKI",
+    "phrase": "Producer / Introducer",
+    "definition": "Agency / Broker sales representative, someone who secures new or renewal business"
+  },
+  {
+    "term": "AL3",
+    "phrase": "EDI Standards",
+    "definition": "Transmission protocol for data exchange"
+  },
+  {
+    "term": "MGA",
+    "phrase": "Managing General Agent ",
+    "definition": "For specialty offerings brokers very specific policies for carriers and agentent runs the program on behalf of the carrier"
+  },
+  {
+    "term": "CRM",
+    "phrase": "Client Relationship Management ",
+    "definition": "A system that manages data throughout the customer lifecycle with the goal of driving sales and improving relationships"
+  },
+  {
+    "term": "SIC",
+    "phrase": "",
+    "definition": ""
+  },
+  {
+    "term": "P/L",
+    "phrase": "Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "C/L",
+    "phrase": "Commercial Lines",
+    "definition": ""
+  },
+  {
+    "term": "EB",
+    "phrase": "Employee Benefits",
+    "definition": ""
+  },
+  {
+    "term": "ENDT",
+    "phrase": "Endorsement",
+    "definition": ""
+  },
+  {
+    "term": "NOC",
+    "phrase": "Cancellation ",
+    "definition": ""
+  },
+  {
+    "term": "EFF",
+    "phrase": "Effective",
+    "definition": ""
+  },
+  {
+    "term": "EXP",
+    "phrase": "Expiration",
+    "definition": ""
+  },
+  {
+    "term": "DEL",
+    "phrase": "Delete",
+    "definition": ""
+  },
+  {
+    "term": "CERT",
+    "phrase": "Certificate",
+    "definition": ""
+  },
+  {
+    "term": "EVID",
+    "phrase": "Evidence",
+    "definition": ""
+  },
+  {
+    "term": "MKT",
+    "phrase": "Marketing",
+    "definition": ""
+  },
+  {
+    "term": "CONF",
+    "phrase": "Confirmation",
+    "definition": ""
+  },
+  {
+    "term": "REIN",
+    "phrase": "Reinstatement",
+    "definition": ""
+  },
+  {
+    "term": "MM",
+    "phrase": "Mail Merge",
+    "definition": ""
+  },
+  {
+    "term": "RQST",
+    "phrase": "Request",
+    "definition": ""
+  },
+  {
+    "term": "EM",
+    "phrase": "Email",
+    "definition": ""
+  },
+  {
+    "term": "INSD",
+    "phrase": "Insured",
+    "definition": ""
+  },
+  {
+    "term": "CLNT/ CLT",
+    "phrase": "Client",
+    "definition": ""
+  },
+  {
+    "term": "EE",
+    "phrase": "Employee",
+    "definition": ""
+  },
+  {
+    "term": "ER",
+    "phrase": "Employer",
+    "definition": ""
+  },
+  {
+    "term": "TRAV",
+    "phrase": "Travelers",
+    "definition": ""
+  },
+  {
+    "term": "AUM",
+    "phrase": "Asset Managment",
+    "definition": ""
+  },
+  {
+    "term": "CABM",
+    "phrase": "Abuse-Molestation Legal Expense",
+    "definition": ""
+  },
+  {
+    "term": "CADD",
+    "phrase": "Disability-AD&D-Travel Accident",
+    "definition": ""
+  },
+  {
+    "term": "CARG",
+    "phrase": "Cargo",
+    "definition": ""
+  },
+  {
+    "term": "CARV",
+    "phrase": "Accts Rec/Val Papers",
+    "definition": ""
+  },
+  {
+    "term": "CASL",
+    "phrase": "California SLIP Filing",
+    "definition": ""
+  },
+  {
+    "term": "CAUT",
+    "phrase": "Commercial Automobile",
+    "definition": ""
+  },
+  {
+    "term": "CAVI",
+    "phrase": "Aviation Policy",
+    "definition": ""
+  },
+  {
+    "term": "CBAI",
+    "phrase": "Bailee's Customers Goods",
+    "definition": ""
+  },
+  {
+    "term": "CBAM",
+    "phrase": "Business & Management Package",
+    "definition": ""
+  },
+  {
+    "term": "CBME",
+    "phrase": "Boiler & Machinery",
+    "definition": ""
+  },
+  {
+    "term": "CBND",
+    "phrase": "Bond",
+    "definition": ""
+  },
+  {
+    "term": "CBOA",
+    "phrase": "Boat-Commercial",
+    "definition": ""
+  },
+  {
+    "term": "CBOP",
+    "phrase": "Business Owners",
+    "definition": ""
+  },
+  {
+    "term": "CBRI",
+    "phrase": "Builders Risk/Installation",
+    "definition": ""
+  },
+  {
+    "term": "CCON",
+    "phrase": "Contingent Liability",
+    "definition": ""
+  },
+  {
+    "term": "CCRD",
+    "phrase": "Credit Insurance",
+    "definition": ""
+  },
+  {
+    "term": "CCRM",
+    "phrase": "Crime",
+    "definition": ""
+  },
+  {
+    "term": "CDIC",
+    "phrase": "DIC Difference In Condition",
+    "definition": ""
+  },
+  {
+    "term": "CDOL",
+    "phrase": "Director's & Officer's Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEBL",
+    "phrase": "Employee Benefit Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEDP",
+    "phrase": "Electronic Data Processing",
+    "definition": ""
+  },
+  {
+    "term": "CEPL",
+    "phrase": "Employment Practices Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEPR",
+    "phrase": "Excess Property",
+    "definition": ""
+  },
+  {
+    "term": "CEQP",
+    "phrase": "Equipment Floater",
+    "definition": ""
+  },
+  {
+    "term": "CEQU",
+    "phrase": "Earthquake-Commercial",
+    "definition": ""
+  },
+  {
+    "term": "CERI",
+    "phrase": "ERISA on Crime Policy Or ERISA Bond",
+    "definition": ""
+  },
+  {
+    "term": "CETE",
+    "phrase": "Excess Technology-Cyber-Privacy",
+    "definition": ""
+  },
+  {
+    "term": "CEXA",
+    "phrase": "Excess Commercial Auto",
+    "definition": ""
+  },
+  {
+    "term": "CEXC",
+    "phrase": "Excess DIC",
+    "definition": ""
+  },
+  {
+    "term": "CEXD",
+    "phrase": "Excess Directors & Officers Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXF",
+    "phrase": "Excess Foreign Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXI",
+    "phrase": "Excess Fiduciary Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXL",
+    "phrase": "Excess Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXM",
+    "phrase": "Excess Marine Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXP",
+    "phrase": "Excess Professional Liability",
+    "definition": ""
+  },
+  {
+    "term": "CEXU",
+    "phrase": "Excess Umbrella",
+    "definition": ""
+  },
+  {
+    "term": "CEXW",
+    "phrase": "Excess Workers Compensation",
+    "definition": ""
+  },
+  {
+    "term": "CFIL",
+    "phrase": "Fiduciary Liability",
+    "definition": ""
+  },
+  {
+    "term": "CFLO",
+    "phrase": "Flood-Commercial",
+    "definition": ""
+  },
+  {
+    "term": "CFOA",
+    "phrase": "Foreign Automobile",
+    "definition": ""
+  },
+  {
+    "term": "CFOK",
+    "phrase": "Foreign Package Policy",
+    "definition": ""
+  },
+  {
+    "term": "CFOL",
+    "phrase": "Foreign General Liability",
+    "definition": ""
+  },
+  {
+    "term": "CFOP",
+    "phrase": "Foreign Property",
+    "definition": ""
+  },
+  {
+    "term": "CFRP",
+    "phrase": "Farm Property-Commercial",
+    "definition": ""
+  },
+  {
+    "term": "CFUM",
+    "phrase": "Foreign Umbrella",
+    "definition": ""
+  },
+  {
+    "term": "CGAR",
+    "phrase": "Garage and Dealers",
+    "definition": ""
+  },
+  {
+    "term": "CGLI",
+    "phrase": "General Liability",
+    "definition": ""
+  },
+  {
+    "term": "CGLP",
+    "phrase": "General Liability & Pollution Liability",
+    "definition": ""
+  },
+  {
+    "term": "CGLS",
+    "phrase": "Glass & Sign",
+    "definition": ""
+  },
+  {
+    "term": "CGPL",
+    "phrase": "General Liability & Professional Liability",
+    "definition": ""
+  },
+  {
+    "term": "CHPI",
+    "phrase": "Hull/Machinery & Protection/Indemnity",
+    "definition": ""
+  },
+  {
+    "term": "CKAR",
+    "phrase": "Kidnap & Ransom",
+    "definition": ""
+  },
+  {
+    "term": "CLIQ",
+    "phrase": "Liquor Liability",
+    "definition": ""
+  },
+  {
+    "term": "CMIS",
+    "phrase": "Miscellaneous Commercial",
+    "definition": ""
+  },
+  {
+    "term": "CMLI",
+    "phrase": "Marine Liability",
+    "definition": ""
+  },
+  {
+    "term": "CMTC",
+    "phrase": "Motor Truck Cargo",
+    "definition": ""
+  },
+  {
+    "term": "COAP",
+    "phrase": "Occupational Accident",
+    "definition": ""
+  },
+  {
+    "term": "COCM",
+    "phrase": "Ocean Marine",
+    "definition": ""
+  },
+  {
+    "term": "CPEO",
+    "phrase": "PEO-Commercial Lines",
+    "definition": ""
+  },
+  {
+    "term": "CPKG",
+    "phrase": "Commercial Package",
+    "definition": ""
+  },
+  {
+    "term": "CPOL",
+    "phrase": "Pollution Liability",
+    "definition": ""
+  },
+  {
+    "term": "CPPK",
+    "phrase": "Property Package",
+    "definition": ""
+  },
+  {
+    "term": "CPRD",
+    "phrase": "Products Liability",
+    "definition": ""
+  },
+  {
+    "term": "CPRE",
+    "phrase": "Products Recall Liability",
+    "definition": ""
+  },
+  {
+    "term": "CPRF",
+    "phrase": "Professional Liability",
+    "definition": ""
+  },
+  {
+    "term": "CPRP",
+    "phrase": "Property",
+    "definition": ""
+  },
+  {
+    "term": "CRAI",
+    "phrase": "Railroad Protective Liability",
+    "definition": ""
+  },
+  {
+    "term": "CROP",
+    "phrase": "Crop/Hail",
+    "definition": ""
+  },
+  {
+    "term": "CRWI",
+    "phrase": "Representations & Warranties - M&A",
+    "definition": ""
+  },
+  {
+    "term": "CSAR",
+    "phrase": "Commercial Aircraft-SPECIAL",
+    "definition": ""
+  },
+  {
+    "term": "CSPC",
+    "phrase": "Commercial Lines Spacecraft-SPECIAL",
+    "definition": ""
+  },
+  {
+    "term": "CSPE",
+    "phrase": "Special Events",
+    "definition": ""
+  },
+  {
+    "term": "CSRA",
+    "phrase": "Prop/Ops of Railroads Interstate Commerce-SPECIAL",
+    "definition": ""
+  },
+  {
+    "term": "CSTR",
+    "phrase": "Export/Import-navigation- transit of goods-SPECIAL",
+    "definition": ""
+  },
+  {
+    "term": "CTAI",
+    "phrase": "Policy with long term Tail",
+    "definition": ""
+  },
+  {
+    "term": "CTAX",
+    "phrase": "Tax Liability",
+    "definition": ""
+  },
+  {
+    "term": "CTEC",
+    "phrase": "Technology-Cyber-Privacy",
+    "definition": ""
+  },
+  {
+    "term": "CTER",
+    "phrase": "Terrorism",
+    "definition": ""
+  },
+  {
+    "term": "CTRA",
+    "phrase": "Transportation",
+    "definition": ""
+  },
+  {
+    "term": "CTRK",
+    "phrase": "Truckers",
+    "definition": ""
+  },
+  {
+    "term": "CUMB",
+    "phrase": "Umbrella",
+    "definition": ""
+  },
+  {
+    "term": "CUSL",
+    "phrase": "USL&H",
+    "definition": ""
+  },
+  {
+    "term": "CWCA",
+    "phrase": "Worker's Comp/Assigned Risk",
+    "definition": ""
+  },
+  {
+    "term": "CWCF",
+    "phrase": "Foreign Workers Compensation",
+    "definition": ""
+  },
+  {
+    "term": "CWCK",
+    "phrase": "Worker's Compensation",
+    "definition": ""
+  },
+  {
+    "term": "CWCM",
+    "phrase": "Maritime Employers Liability",
+    "definition": ""
+  },
+  {
+    "term": "CWCO",
+    "phrase": "Workers Comp Out of State",
+    "definition": ""
+  },
+  {
+    "term": "CWDB",
+    "phrase": "Workers Compensation for Defense Base Act",
+    "definition": ""
+  },
+  {
+    "term": "CWIN",
+    "phrase": "Commercial Wind",
+    "definition": ""
+  },
+  {
+    "term": "CWPV",
+    "phrase": "Workplace Violence",
+    "definition": ""
+  },
+  {
+    "term": "CWSA",
+    "phrase": "Workers Compensation-State Act",
+    "definition": ""
+  },
+  {
+    "term": "CXBR",
+    "phrase": "Builder's Risk CIP Policy",
+    "definition": ""
+  },
+  {
+    "term": "CXEB",
+    "phrase": "Builder's Risk Ex CIP Policy",
+    "definition": ""
+  },
+  {
+    "term": "CXEL",
+    "phrase": "Excess Liability CIP Policy",
+    "definition": ""
+  },
+  {
+    "term": "CXGL",
+    "phrase": "General Liability CIP Policy",
+    "definition": ""
+  },
+  {
+    "term": "CZAB",
+    "phrase": "Agricultural Property",
+    "definition": ""
+  },
+  {
+    "term": "CZAK",
+    "phrase": "Agriculture Package",
+    "definition": ""
+  },
+  {
+    "term": "CZAL",
+    "phrase": "Agriculture Liability",
+    "definition": ""
+  },
+  {
+    "term": "CZAP",
+    "phrase": "Agriculture Personal Property",
+    "definition": ""
+  },
+  {
+    "term": "FANF",
+    "phrase": "Annuity-Fixed",
+    "definition": ""
+  },
+  {
+    "term": "FDBL",
+    "phrase": "Individual Disability-GB",
+    "definition": ""
+  },
+  {
+    "term": "FDEN",
+    "phrase": "Individual Dental",
+    "definition": ""
+  },
+  {
+    "term": "FDIS",
+    "phrase": "Disability-FS",
+    "definition": ""
+  },
+  {
+    "term": "FHEA",
+    "phrase": "Individual Health",
+    "definition": ""
+  },
+  {
+    "term": "FIRA",
+    "phrase": "Individual Retirement Account",
+    "definition": ""
+  },
+  {
+    "term": "FLAD",
+    "phrase": "Life and ADD",
+    "definition": ""
+  },
+  {
+    "term": "FLTC",
+    "phrase": "Long Term Care",
+    "definition": ""
+  },
+  {
+    "term": "FLTR",
+    "phrase": "Long Term Care-Rolling",
+    "definition": ""
+  },
+  {
+    "term": "FMEC",
+    "phrase": "Medicare",
+    "definition": ""
+  },
+  {
+    "term": "FMIS",
+    "phrase": "Miscellaneous Life",
+    "definition": ""
+  },
+  {
+    "term": "FPEN",
+    "phrase": "Retirement Plan",
+    "definition": ""
+  },
+  {
+    "term": "FTIF",
+    "phrase": "Term Life",
+    "definition": ""
+  },
+  {
+    "term": "FUNL",
+    "phrase": "Universal Life",
+    "definition": ""
+  },
+  {
+    "term": "FVAL",
+    "phrase": "Variable Life",
+    "definition": ""
+  },
+  {
+    "term": "FVIS",
+    "phrase": "Individual Vision",
+    "definition": ""
+  },
+  {
+    "term": "FWOL",
+    "phrase": "Whole Life",
+    "definition": ""
+  },
+  {
+    "term": "GADD",
+    "phrase": "Group AD&D Only",
+    "definition": ""
+  },
+  {
+    "term": "GALT",
+    "phrase": "Group-Alternative Medicine",
+    "definition": ""
+  },
+  {
+    "term": "GBIL",
+    "phrase": "Group Consolidated Billing",
+    "definition": ""
+  },
+  {
+    "term": "GCOB",
+    "phrase": "COBRA Administration",
+    "definition": ""
+  },
+  {
+    "term": "GCON",
+    "phrase": "Group Consulting Services",
+    "definition": ""
+  },
+  {
+    "term": "GDEN",
+    "phrase": "Group Dental",
+    "definition": ""
+  },
+  {
+    "term": "GDIS",
+    "phrase": "Group Disability",
+    "definition": ""
+  },
+  {
+    "term": "GEAP",
+    "phrase": "Group Empl Assist Program",
+    "definition": ""
+  },
+  {
+    "term": "GEXC",
+    "phrase": "Group Executive Plan",
+    "definition": ""
+  },
+  {
+    "term": "GFSA",
+    "phrase": "Group Flexible Spending Acct",
+    "definition": ""
+  },
+  {
+    "term": "GHPC",
+    "phrase": "Group Hidden Pay Check Serv",
+    "definition": ""
+  },
+  {
+    "term": "GHRA",
+    "phrase": "Group Health Reimbursement Account",
+    "definition": ""
+  },
+  {
+    "term": "GINT",
+    "phrase": "Group-International Plan",
+    "definition": ""
+  },
+  {
+    "term": "GLCC",
+    "phrase": "GL Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "GLEG",
+    "phrase": "Group Legal Services",
+    "definition": ""
+  },
+  {
+    "term": "GLIF",
+    "phrase": "Group Life",
+    "definition": ""
+  },
+  {
+    "term": "GLTC",
+    "phrase": "Group Long Term Care",
+    "definition": ""
+  },
+  {
+    "term": "GLTD",
+    "phrase": "Group LTD",
+    "definition": ""
+  },
+  {
+    "term": "GMED",
+    "phrase": "Group Medical",
+    "definition": ""
+  },
+  {
+    "term": "GOBP",
+    "phrase": "Group Online Benefits Program",
+    "definition": ""
+  },
+  {
+    "term": "GOEP",
+    "phrase": "Group Online Enrollment Prog",
+    "definition": ""
+  },
+  {
+    "term": "GORG",
+    "phrase": "Group Organ Transplant Program",
+    "definition": ""
+  },
+  {
+    "term": "GRPH",
+    "phrase": "Group Health",
+    "definition": ""
+  },
+  {
+    "term": "GRTA",
+    "phrase": "Group Travel Accident",
+    "definition": ""
+  },
+  {
+    "term": "GSTD",
+    "phrase": "Group STD",
+    "definition": ""
+  },
+  {
+    "term": "GSTP",
+    "phrase": "Group Stop Loss",
+    "definition": ""
+  },
+  {
+    "term": "GVGE",
+    "phrase": "Group Voluntary Benefits Gen",
+    "definition": ""
+  },
+  {
+    "term": "GVIS",
+    "phrase": "Group Vision",
+    "definition": ""
+  },
+  {
+    "term": "GVOL",
+    "phrase": "Group Voluntary Life",
+    "definition": ""
+  },
+  {
+    "term": "GWEL",
+    "phrase": "Group Wellness Programs",
+    "definition": ""
+  },
+  {
+    "term": "HSRM",
+    "phrase": "Succeed Risk Management",
+    "definition": ""
+  },
+  {
+    "term": "HSRV",
+    "phrase": "Additional Services Fee",
+    "definition": ""
+  },
+  {
+    "term": "MACT",
+    "phrase": "Porter Curtis Actec Systems",
+    "definition": ""
+  },
+  {
+    "term": "MEDC",
+    "phrase": "Porter Curtis Medcor",
+    "definition": ""
+  },
+  {
+    "term": "PADD",
+    "phrase": "Travel-Accident-AD&D-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PAGL",
+    "phrase": "Agriculture Liability- Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PAPK",
+    "phrase": "Agriculture Package- Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PAPP",
+    "phrase": "Agricultural Personal Property Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PAPR",
+    "phrase": "Agricultural Property- Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PAUT",
+    "phrase": "Automobile-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PBLD",
+    "phrase": "Builders Risk-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PBOA",
+    "phrase": "Watercraft-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PCLE",
+    "phrase": "Personal Lines Commercial Excess Liability",
+    "definition": ""
+  },
+  {
+    "term": "PCLG",
+    "phrase": "Personal Lines Commercial General Liability",
+    "definition": ""
+  },
+  {
+    "term": "PCLP",
+    "phrase": "Personal Lines Commercial Property",
+    "definition": ""
+  },
+  {
+    "term": "PCON",
+    "phrase": "Condo/Homeowners-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PCYC",
+    "phrase": "Motorcycle-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PDIC",
+    "phrase": "Difference in Condition-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PEPL",
+    "phrase": "Employment Practice Liability- Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PEQU",
+    "phrase": "Earthquake-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PEXC",
+    "phrase": "Excess Liability-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PEXL",
+    "phrase": "Motorcycle Excess Liability-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PFIR",
+    "phrase": "Dwelling Fire-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PFLO",
+    "phrase": "Flood-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PHOM",
+    "phrase": "Homeowners-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PINL",
+    "phrase": "Inland Marine-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PLIA",
+    "phrase": "Liability Personal Lines",
+    "definition": ""
+  },
+  {
+    "term": "PMHO",
+    "phrase": "Mobile Home-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PMIS",
+    "phrase": "Miscellaneous-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PPKG",
+    "phrase": "Package-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PRCV",
+    "phrase": "Recreational Vehicle-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PTEN",
+    "phrase": "Tenant Homeowner-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PTVF",
+    "phrase": "Pass Through Vendor Fee",
+    "definition": ""
+  },
+  {
+    "term": "PUMB",
+    "phrase": "Umbrella-Personal",
+    "definition": ""
+  },
+  {
+    "term": "PWKC",
+    "phrase": "Personal Lines Workers Compensation",
+    "definition": ""
+  },
+  {
+    "term": "TKRI",
+    "phrase": "Tangram K&R",
+    "definition": ""
+  },
+  {
+    "term": "TPKG",
+    "phrase": "Package Policy-Tangram",
+    "definition": ""
+  },
+  {
+    "term": "VOCI",
+    "phrase": "Wrap Administration",
+    "definition": ""
+  },
+  {
+    "term": "WRAP",
+    "phrase": "Wrap Administration",
+    "definition": ""
+  },
+  {
+    "term": "XCL1",
+    "phrase": "Preferred Contract - WC Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XCL2",
+    "phrase": "Tracking Contract - WC Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XCL4",
+    "phrase": "Medical Triage Services",
+    "definition": ""
+  },
+  {
+    "term": "XCL6",
+    "phrase": "Other-Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XHAT",
+    "phrase": "Tracking Contract - Commercial Auto Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XHAU",
+    "phrase": "Preferred Contract - Commercial Auto Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XHCC",
+    "phrase": "GL Consulting Retainer",
+    "definition": ""
+  },
+  {
+    "term": "XHGL",
+    "phrase": "Complex Claim Support",
+    "definition": ""
+  },
+  {
+    "term": "XHGT",
+    "phrase": "Claims Tracking Plus",
+    "definition": ""
+  },
+  {
+    "term": "XHPP",
+    "phrase": "Preferred Contract - Property Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XHPT",
+    "phrase": "Tracking Contract - Property Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XHRS",
+    "phrase": "HR Consulting Support",
+    "definition": ""
+  },
+  {
+    "term": "XKAM",
+    "phrase": "KPA Personalized Account Management (PAM)",
+    "definition": ""
+  },
+  {
+    "term": "XKLC",
+    "phrase": "Loss Control",
+    "definition": ""
+  },
+  {
+    "term": "XKRM",
+    "phrase": "KPA Risk Management Center HIB Access Fee",
+    "definition": ""
+  },
+  {
+    "term": "XPCG",
+    "phrase": "Private Client Group Claims Consulting",
+    "definition": ""
+  },
+  {
+    "term": "XTLR",
+    "phrase": "Compliance Management",
+    "definition": ""
+  },
+  {
+    "term": "XXXX",
+    "phrase": "XConversion need to fix",
+    "definition": ""
+  },
+  {
+    "term": "YBID",
+    "phrase": "Bid Bond Service Fee",
+    "definition": ""
+  },
+  {
+    "term": "YCLB",
+    "phrase": "Contractor License Bonds",
+    "definition": ""
+  },
+  {
+    "term": "YCON",
+    "phrase": "Contract Bond(pay/perf/supply)",
+    "definition": ""
+  },
+  {
+    "term": "YCOR",
+    "phrase": "Renewable Service Contract Bond",
+    "definition": ""
+  },
+  {
+    "term": "YCRT",
+    "phrase": "Court Bonds",
+    "definition": ""
+  },
+  {
+    "term": "YCUS",
+    "phrase": "Custom Bonds",
+    "definition": ""
+  },
+  {
+    "term": "YFGB",
+    "phrase": "Financial Guarantee Bond",
+    "definition": ""
+  },
+  {
+    "term": "YLPB",
+    "phrase": "License & Permit Bonds",
+    "definition": ""
+  },
+  {
+    "term": "YMIS",
+    "phrase": "Miscellaneous Bond",
+    "definition": ""
+  },
+  {
+    "term": "YNOT",
+    "phrase": "Notary Bond",
+    "definition": ""
+  },
+  {
+    "term": "YSUB",
+    "phrase": "Subdivision Bonds",
+    "definition": ""
+  },
+  {
+    "term": "ZHGI",
+    "phrase": "HGIT Services",
+    "definition": ""
+  },
+  {
+    "term": "EAC",
+    "phrase": "Enterprise Advisory Council ",
+    "definition": ""
+  },
+  {
+    "term": "PAC",
+    "phrase": "Product Advisory Committee",
+    "definition": ""
+  },
+  {
+    "term": "SDK",
+    "phrase": "Software Development Kit",
+    "definition": ""
+  },
+  {
+    "term": "BDE",
+    "phrase": "Bulk Data Extract",
+    "definition": ""
+  },
+  {
+    "term": "BMS",
+    "phrase": "Broker Management Systems",
+    "definition": ""
+  },
+  {
+    "term": "AMS",
+    "phrase": "Agency Management Systems",
+    "definition": ""
+  },
+  {
+    "term": "MGA",
+    "phrase": "Managing General Agent",
+    "definition": ""
+  },
+  {
+    "term": "MGU",
+    "phrase": "Managing General Underwriter",
+    "definition": ""
+  },
+  {
+    "term": "TAM",
+    "phrase": "The Agency Manager",
+    "definition": ""
+  },
+  {
+    "term": "AMA",
+    "phrase": "Applied Marketing Automation ",
+    "definition": ""
+  },
+  {
+    "term": "AESF",
+    "phrase": "Applied Epic for Sales Force",
+    "definition": ""
+  },
+  {
+    "term": "RIC",
+    "phrase": "Rich Internet Client",
+    "definition": ""
+  },
+  {
+    "term": "CAC",
+    "phrase": "Customer Acquistion Cost",
+    "definition": ""
+  },
+  {
+    "term": "DA",
+    "phrase": "Digital Agency ",
+    "definition": ""
+  },
+  {
+    "term": "LVT",
+    "phrase": "Lifetime Value",
+    "definition": ""
+  },
+  {
+    "term": "FSC",
+    "phrase": "Financial Services Cloud",
+    "definition": ""
+  },
+  {
+    "term": "ET",
+    "phrase": "Epic Transformation ",
+    "definition": ""
+  },
+  {
+    "term": "TG",
+    "phrase": "Thematic Goals ",
+    "definition": ""
+  },
+  {
+    "term": "DO",
+    "phrase": "Defining Objectives",
+    "definition": ""
+  },
+  {
+    "term": "SMG",
+    "phrase": "Senoir Management Group",
+    "definition": ""
+  },
+  {
+    "term": "P&C",
+    "phrase": "Personal and Commercial ",
+    "definition": ""
+  }
+]
